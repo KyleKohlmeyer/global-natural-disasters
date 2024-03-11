@@ -1,5 +1,5 @@
 # Global_Natural_Disasters
-## The work in this repository is from me and my group members, Eileen Fey and Bridget Groble
+## Kyle Kohlmeyer, Eileen Fey and Bridget Groble
 ## Overview
 For our project, we looked at natural disasters worldwide by disaster types and deaths in each country, as a rate of deaths per 100,000 people. Natural disasters are increasingly affecting the global population. Natural disasters are costly to countries with the U.S. spending over $100 billion dollars on natural disasters in 2023. Globally, these costs exceed $2.65 trillion across all countries. Natural disasters are also becoming more frequent and more extreme. For example, over the last 10 years, the U.S. has seen more billion-dollar natural disasters than ever before.
 Finally, these disasters are affecting more and more people. While death rates have decreased since the early 20th century due to modern technology mitigating drought and flood deaths, deaths from other natural disasters have been increasing since around 1965. We thought it would be intellectually stimulating to create a visualization that demonstrated these changes over time.
