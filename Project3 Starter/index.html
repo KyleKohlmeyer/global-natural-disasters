@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="“en”">
+  <head>
+    <body>
+      <header>
+        <nav>
+          <ul>
+            <li><a href="index.html">Natural Disasters by Type</a></li>
+            <li>
+              <a href="slider_map.html">Total Natural Disasters by Year</a>
+            </li>
+          </ul>
+        </nav>
+      </header>
+    </body>
+    <html lang="en">
+      <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Global Natural Disasters</title>
+        <!-- Include Leaflet CSS and JavaScript -->
+        <link
+          rel="stylesheet"
+          href="https://unpkg.com/leaflet/dist/leaflet.css"
+        />
+        <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+        <!-- Include the timeline.js and JavaScript -->
+        <link
+          rel="stylesheet"
+          href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css"
+        />
+        <link
+          href="
+https://cdn.jsdelivr.net/npm/nouislider@15.7.1/dist/nouislider.min.css
+"
+          rel="stylesheet"
+        />
+        <!-- Include noUiSlider CSS and JavaScript -->
+        <link
+          rel="stylesheet"
+          href="https://unpkg.com/nouislider/distribute/nouislider.min.css"
+        />
+        <script src="https://unpkg.com/nouislider"></script>
+        <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <style>
+          #map {
+            height: 400px;
+          }
+        </style>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+      </head>
+
+      <body>
+        <div>
+          <div id="map" style="height: 300px; width: 100vw"></div>
+        </div>
+        <div class="card card-body bg-light">
+          <h6>Deaths by Disaster</h6>
+          <select id="selDataset" onchange="optionChanged(this.value)"></select>
+        </div>
+        <script src="./static/js/drop_down.js"></script>
+      </body>
+    </html>
+  </head>
+</html>
