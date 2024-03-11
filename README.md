@@ -1,4 +1,4 @@
-# Global_Natural_Disasters
+# Global Natural Disasters
 ## Kyle Kohlmeyer, Eileen Fey, and Bridget Groble
 ## Overview
 For our project, we looked at natural disasters worldwide by disaster types and deaths in each country, as a rate of deaths per 100,000 people. Natural disasters are increasingly affecting the global population. Natural disasters are costly to countries with the U.S. spending over $100 billion dollars on natural disasters in 2023. Globally, these costs exceed $2.65 trillion across all countries. Natural disasters are also becoming more frequent and more extreme. For example, over the last 10 years, the U.S. has seen more billion-dollar natural disasters than ever before.
